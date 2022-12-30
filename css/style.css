@@ -165,5 +165,5 @@ section::after {
 .container .card .content a:hover {
   background: #9bdc28;
   transition: 0.5s;
-color: white;
+  color: white;
 }
